@@ -1,10 +1,12 @@
 <h1 align="center">
 # 🧑‍🚀 Conie 151
 </h1>
-**`Digital Astronaut (Developer/Problem Solver/Creator)`**
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Everyone!+👋;+I'm+Conie+151!;" />
 </h1>
+
+**`Digital Astronaut (Developer/Problem Solver/Creator)`**
 I'm a passionate software developer and cybersecurity enthusiast with a flair for creativity and problem-solving.
 
 🚀 With over 4 years of hands-on programming experience, I have honed my skills in C# and emerged as a fluent and versatile developer. My journey began in the realm of self-taught video game development, where I transformed my fascination for interactive storytelling into immersive game experiences.
