@@ -1,7 +1,7 @@
 <h1 align="center">
 # 🧑‍🚀 Conie 151
-**`Digital Astronaut (Developer/Problem Solver/Creator)`**
 </h1>
+**`Digital Astronaut (Developer/Problem Solver/Creator)`**
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Everyone!+👋;+I'm+Conie+151!;" />
 </h1>
