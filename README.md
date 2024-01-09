@@ -27,14 +27,9 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 </div>
 <br/>
 
-
-## Interests
-
-- 📺 Favorite YouTube Channels
-
 # Favorite Cybersecurity Documentaries 🌐
 
-[![Documentary 1]([thumbnail_url_1](https://i.ytimg.com/vi_webp/-TSj7t9WxtY/movieposter_en.webp))]([link_to_doc_1](https://www.youtube.com/watch?v=-TSj7t9WxtY&pp=ygULY2l0aXplbmZvdXI%3D))
+[![Documentary 1]([https://i.ytimg.com/vi_webp/-TSj7t9WxtY/movieposter_en.webp)]([(https://www.youtube.com/watch?v=-TSj7t9WxtY&pp=ygULY2l0aXplbmZvdXI%3D)])
 [![Documentary 2](thumbnail_url_2)](link_to_doc_2)
 [![Documentary 3](thumbnail_url_3)](link_to_doc_3)
 
