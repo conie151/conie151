@@ -2,16 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Everyone!+👋;+I'm+Conie+151!;" />
 </h1>
 
-<hr/>
-<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c#,java" /><br>
-</div>
-<br/>
-<hr/>
-
 ## About Me
 - 🚀 Full-stack Developer
 - 🎮 Indie Video Game Developer
@@ -27,9 +17,17 @@
 
 - 📅 4 years on GitHub
 - 🌐 4 years on Stack Overflow
-## GitHub Stats
+- 
+<hr/>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c#,java" /><br>
+</div>
+<br/>
+<hr/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/<your-username>)
 
 ## Interests
 
