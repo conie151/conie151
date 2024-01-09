@@ -18,6 +18,21 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/<your-username>)
 
+## Interests
+
+- 📺 Favorite YouTube Channels
+  - [Scammer Payback](https://www.youtube.com/@ScammerPayback)
+  - [Brackeys](https://www.youtube.com/@Brackeys)
+  - 
+
+- 📽️ Favorite Documentaries
+  - [Documentary 1](link_to_doc_1)
+  - [Documentary 2](link_to_doc_2)
+
+## Favorite Repositories
+
+- [Repository 1](link_to_repo_1)
+- [Repository 2](link_to_repo_2)
 
 <!---
 conie151/conie151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
