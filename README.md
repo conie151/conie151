@@ -19,7 +19,6 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 - 📅 4 years on GitHub
 - 🌐 4 years on Stack Overflow
 
-<hr/>
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -27,7 +26,6 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c#,java" /><br>
 </div>
 <br/>
-<hr/>
 
 
 ## Interests
