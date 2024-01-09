@@ -31,6 +31,14 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 ## Interests
 
 - 📺 Favorite YouTube Channels
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Scammer Payback](https://www.youtube.com/@ScammerPayback)]([https://www.youtube.com/watch?v=lwl-KIxyAow](https://www.youtube.com/@ScammerPayback))
+[![Why "Debugging" ??](https://ytcards.demolab.com/?id=m1OiF7oBKy4&title=Why+%22Debugging%22+%3F%3F&lang=en&timestamp=1704711644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Why \"Debugging\" ??")](https://www.youtube.com/watch?v=m1OiF7oBKy4)
+[![How Software Engineers SHOULD Write Code](https://ytcards.demolab.com/?id=S1nJPemTgzk&title=How+Software+Engineers+SHOULD+Write+Code&lang=en&timestamp=1703775620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1247 "How Software Engineers SHOULD Write Code")](https://www.youtube.com/watch?v=S1nJPemTgzk)
+[![Dev Startup Day 12 - Merry Christmas!](https://ytcards.demolab.com/?id=s2JSKp95Zaw&title=Dev+Startup+Day+12+-+Merry+Christmas%21&lang=en&timestamp=1703502047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1489 "Dev Startup Day 12 - Merry Christmas!")](https://www.youtube.com/watch?v=s2JSKp95Zaw)
+[![Dev Startup Day 11 - I COMPLETELY Redesigned My App](https://ytcards.demolab.com/?id=UmeDkmGL62Y&title=Dev+Startup+Day+11+-+I+COMPLETELY+Redesigned+My+App&lang=en&timestamp=1702918620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=482 "Dev Startup Day 11 - I COMPLETELY Redesigned My App")](https://www.youtube.com/watch?v=UmeDkmGL62Y)
+[![The Making of VIM: The Most Beloved Text Editor of All Time](https://ytcards.demolab.com/?id=c6vjFQBlxvY&title=The+Making+of+VIM%3A+The+Most+Beloved+Text+Editor+of+All+Time&lang=en&timestamp=1701961235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=440 "The Making of VIM: The Most Beloved Text Editor of All Time")](https://www.youtube.com/watch?v=c6vjFQBlxvY)
+<!-- END YOUTUBE-CARDS -->
   - [Scammer Payback](https://www.youtube.com/@ScammerPayback)
   - [Brackeys](https://www.youtube.com/@Brackeys)
   - 
