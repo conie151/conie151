@@ -14,7 +14,7 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 
 ## About Me
 - 👀 I’m interested in Cybersecurity, STEM, and Programming.
-- 🌱 I’m currently learning Information Techonology⚡
+- 🌱 I’m dilligently learning Information Techonology⚡
 - 📅 4 years on GitHub
 - 🌐 4 years on Stack Overflow
 
