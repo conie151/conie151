@@ -12,12 +12,6 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 
 🌐 I'm always eager to learn, collaborate, and contribute to the vibrant world of programming!
 
-## About Me
-- 👀 I’m interested in Cybersecurity, STEM, and Programming.
-- 🌱 I’m dilligently learning Information Techonology⚡
-- 📅 4 years on GitHub
-- 🌐 4 years on Stack Overflow
-
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -25,6 +19,12 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c#,java" /><br>
 </div>
 <br/>
+
+## About Me
+- 👀 I’m interested in Cybersecurity, STEM, and Programming.
+- 🌱 I’m dilligently learning Information Techonology⚡
+- 📅 4 years on GitHub
+- 🌐 4 years on Stack Overflow
 
 # Microsoft Learn Activity 🌐
 
