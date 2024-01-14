@@ -20,7 +20,7 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 </div>
 <br/>
 
-## About Me
+# About Me
 - 👀 I’m interested in Cybersecurity, STEM, and Programming.
 - 🌱 I’m dilligently learning Information Techonology⚡
 - 📅 4 years on GitHub
