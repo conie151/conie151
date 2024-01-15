@@ -26,8 +26,8 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 - 📅 4 years on GitHub
 - 🌐 4 years on Stack Overflow
 
-# Microsoft Learn Activity 🌐
-
+# Learn Activity 🌐
+[![Qualys](https://www.cisco.com/c/dam/assets/swa/img/anchor-info/qualys-628x353.png)](https://www.qualys.com/training/)
 [![Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg)](https://learn.microsoft.com/api/achievements/share/en-us/CalderaConie-2539/UFPSQJA3?sharingId=43ED87B0AA4100B9)
 [![Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/achievements/get-started-fabric.svg)](https://learn.microsoft.com/api/achievements/share/en-us/CalderaConie-2539/8RDYNT2W?sharingId=43ED87B0AA4100B9)
 [![Implement Real-Time Analytics with Microsoft Fabric](https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg)](https://learn.microsoft.com/api/achievements/share/en-us/CalderaConie-2539/AQGYW327?sharingId=43ED87B0AA4100B9)
