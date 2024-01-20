@@ -10,7 +10,7 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 💻 As a self-taught coder, I've ventured into diverse domains, coding websites, software solutions, and tools that blend functionality with an intuitive user experience. I thrive on the challenges of bringing ideas to life through lines of code, constantly pushing my boundaries to deliver robust and elegant solutions.
 🔒 Currently, I'm on an exciting journey as a diligent cybersecurity student. My dedication to understanding and mitigating security risks reflects my commitment to building not only functional but also secure software solutions. I believe that a strong foundation in cybersecurity is fundamental to creating technology that stands the test of real-world threats.
 
-🌐 I'm always eager to learn, collaborate, and contribute to the vibrant world of programming!
+🌐 I'm always eager to learn, collaborate, and contribute to the vibrant world of programming.
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
