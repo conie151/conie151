@@ -26,7 +26,7 @@ Hello there! I'm a passionate software developer and cybersecurity enthusiast wi
 - 📅 4 years on GitHub
 - 🌐 4 years on Stack Overflow
 
-# Learn Activity 🌐
+# Learning Activity 🌐
 <!-- [![Qualys](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/296fda38-71c2-40bb-91b2-b8813c1a7c14.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50)]
 (https://www.qualys.com/training/)
 [![Cisco Networking](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/800px-Cisco_logo_blue_2016.svg.png)](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US&utm_campaign=writ&utm_content=intro-to-cyber-get-started-button&utm_source=cisco.com&utm_medium=referral) -->
